@@ -18,4 +18,4 @@
 #### ignore institution specific stuff ###
 /public/css/institution/
 /public/img/institution/
-/templates/institution/
+#/templates/institution/
