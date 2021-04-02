@@ -6,7 +6,7 @@
  *
  */
 $solr_core_url = 'http://localhost:8983/solr/datacatalog';
-$data_catalog_base_url = 'http://localhost:8080';
+$data_catalog_base_url = 'http://localhost:8000';
 
 
 $db_output_url = $data_catalog_base_url . '/api/Dataset/all.json?output_format=solr';
